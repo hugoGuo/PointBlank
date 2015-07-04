@@ -1,0 +1,50 @@
+
+uiSpriteSheet.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_button_rectangle
+  rotate: false
+  xy: 2, 53
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+blue_button_rectangle
+  rotate: false
+  xy: 2, 53
+  size: 190, 49
+  split: 6, 6, 5, 10
+  pad: 8, 8, 8, 13
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+blue_button_rectangle_pressed
+  rotate: false
+  xy: 2, 6
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+blue_button_square
+  rotate: false
+  xy: 296, 53
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+blue_button_square_pressed
+  rotate: false
+  xy: 296, 6
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+target
+  rotate: false
+  xy: 194, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
