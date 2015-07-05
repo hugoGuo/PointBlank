@@ -25,6 +25,7 @@ public class PointBlank extends Game {
         gl.glClearColor(1.0f, 1.0f, 1.0f, 0.0f);
         gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
+        
         super.render();
 	}
 }
